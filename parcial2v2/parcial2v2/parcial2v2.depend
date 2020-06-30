@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1593477930 source:c:\users\franc\desktop\parcial2v2\parcial2v2\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"parser.h"
+	<time.h>
+
+1593472983 c:\users\franc\desktop\parcial2v2\parcial2v2\linkedlist.h
+
+1593478021 c:\users\franc\desktop\parcial2v2\parcial2v2\bicicleta.h
+	"LinkedList.h"
+
+1593478287 c:\users\franc\desktop\parcial2v2\parcial2v2\parser.h
+
+1593476973 source:c:\users\franc\desktop\parcial2v2\parcial2v2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"Controller.h"
+	"Bicicleta.h"
+	"parser.h"
+
+1593476820 c:\users\franc\desktop\parcial2v2\parcial2v2\controller.h
+	"LinkedList.h"
+
+1593474615 source:c:\users\franc\desktop\parcial2v2\parcial2v2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1593476714 source:c:\users\franc\desktop\parcial2v2\parcial2v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+	"parser.h"
+	<time.h>
+
+1593472869 source:c:\users\franc\desktop\parcial2v2\parcial2v2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+
